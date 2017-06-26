@@ -1,7 +1,7 @@
 {
   "name": "foreman",
-  "version": "2.0.0",
-  "homepage": "http://strongloop.github.io/node-foreman/",
+  "version": "2.0.1",
+  "homepage": "",
   "description": "Node Implementation of Foreman",
   "author": "StrongLoop, Inc.",
   "license": "MIT",
@@ -33,11 +33,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/strongloop/node-foreman.git"
+    "url": "https://github.com/willowtreeapps/node-foreman.git"
   },
   "bugs": {
-    "url": "https://github.com/strongloop/node-foreman/issues",
-    "email": "callback@strongloop.com"
+    "url": "https://github.com/willowtreeapps/node-foreman/issues",
+    "email": "james.fishwick@willowtreeapps.com"
   },
   "engines": {
     "node": ">=0.6.9"
